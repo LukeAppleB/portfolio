@@ -24,6 +24,9 @@ export function Hero() {
           <p className="text-lg text-muted-foreground mb-10 leading-relaxed">
             {resumeData.summary2}
           </p>
+          <p className="text-lg text-muted-foreground mb-10 leading-relaxed">
+            {resumeData.summary3}
+          </p>
           <div className="flex gap-4 justify-center">
             <Button asChild size="lg">
               <a href="#contact">Get in Touch</a>
