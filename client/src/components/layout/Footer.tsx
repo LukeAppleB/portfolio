@@ -7,7 +7,7 @@ export function Footer() {
       <div className="container">
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Luke Appleby.
+            {new Date().getFullYear()} Luke Appleby. Hosted on Digital Ocean, SSL + DNS managed by Cloudflare.
           </p>
           <div className="flex gap-4">
             <a
