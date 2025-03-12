@@ -2,7 +2,7 @@ export const resumeData = {
   name: "Luke Appleby",
   title: "Backend Software Developer",
   summary: "Passionate, quick learning software developer with 7 years of experience building APIs, microservices, integrations and cloud native applications. I have professional experience with Credit Card payment processing, 3rd party integrations, business logic algorithms, transaction workflows, database programming and more.",
-  summary2: "I created, and deployed this website using AI tools in about 2 hours, to showcase my skills and experience. I'm looking for a new challenge and to continue growing as a developer.",
+  summary2: "I created, and deployed this website using AI tools, to showcase my skills and experience. I'm looking for a new challenge and to continue growing as a developer.",
   summary3: "Please note that some information is unable to be shared publicly. Please contact me if you would like to know more.",
   
   contact: {
